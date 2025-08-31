@@ -1,0 +1,8 @@
+<map id="main.c" name="main.c">
+<area shape="rect" id="node1" title="Main entry point for the SDL game, handling menu and game loop." alt="" coords="188,5,255,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,155,93,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="117,155,227,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="251,155,387,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="344,80,411,107"/>
+<area shape="rect" id="node6" href="$personne_8h.html" title="Header file for character management in the SDL game." alt="" coords="174,80,269,107"/>
+</map>

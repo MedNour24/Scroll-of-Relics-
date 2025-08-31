@@ -1,0 +1,5 @@
+<map id="personne.h" name="personne.h">
+<area shape="rect" id="node1" title="Header file for character management in the SDL game." alt="" coords="43,5,138,32"/>
+<area shape="rect" id="node2" href="$main_8c.html" title="Main entry point for the SDL game, handling menu and game loop." alt="" coords="5,80,72,107"/>
+<area shape="rect" id="node3" href="$personne_8c.html" title="Implementation of character management functions for the SDL game." alt="" coords="96,80,189,107"/>
+</map>
